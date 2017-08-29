@@ -1,0 +1,1 @@
+{"topics":[{"channels":[{"name":"nsq_to_file","paused":false}],"name":"bi","paused":false},{"channels":[{"name":"ch3","paused":false}],"name":"write_test","paused":false}],"version":"0.3.8"}
